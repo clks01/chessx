@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/dialogs/aboutdlg.ui" line="14"/>
         <source>About ChessX</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关于 ChessX</translation>
     </message>
     <message>
         <location filename="../src/dialogs/aboutdlg.ui" line="43"/>
